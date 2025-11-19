@@ -1,0 +1,10 @@
+# Dependencias para scripts de monitoreo
+
+# Requerido para todos los scripts
+requests>=2.31.0
+
+# Opcional - para monitor_live.py con interfaz visual mejorada
+rich>=13.0.0
+
+# Opcional - para conexión directa a PostgreSQL
+psycopg2-binary>=2.9.9
